@@ -1,0 +1,4 @@
+{
+ "DatabaseURL": "mongodb+srv://marsel:marsel@marselcluster.tf2ej.mongodb.net/piketDB?retryWrites=true&w=majority&appName=MarselCluster",
+ "DatabaseURLProduction": "mongodb+srv://marsel:marsel@marselcluster.tf2ej.mongodb.net/?retryWrites=true&w=majority&appName=MarselCluster"
+}
